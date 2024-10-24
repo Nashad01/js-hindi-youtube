@@ -77,6 +77,6 @@ const course = {
 
 const {courseInstructor: balagal} = course
 
-console.log(balagal);
+console.log(balagal)
 
 
