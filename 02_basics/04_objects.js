@@ -80,5 +80,5 @@ const {courseInstructor: balagal} = course
 console.log(balagal)
 
 //------------------------------------------------------ hhhhh
-
+// dfgsfgfsg
 
